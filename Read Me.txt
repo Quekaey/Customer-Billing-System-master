@@ -1,0 +1,11 @@
+Project Name: Customer Billing System
+
+Tools Used: 
+	Language : C language
+	Compiler : GCC
+	Debugger : GDB
+	Operating System : Windows 10 
+	Other tools Used : Valgrind,
+			   Memcheck,
+		           git,
+			   GitHub.
